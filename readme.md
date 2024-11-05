@@ -3,7 +3,7 @@
 05.11.24 bis 03.12.24
 
 ## Aufgaben verteilung
-- [ ] Rechechieren wie Programmieren -Nena-
+- [ ] Rechechieren wie Programmieren, (Nena)
 
 ## Übersicht des Programms
 - [ ] Eingaben von Nutzer validieren und speichern: Benutzer nach Wertpapieren fragen, Eingaben validieren
