@@ -6,8 +6,9 @@
 - [ ] Rechechieren wie Programmieren, (Nena)
 - [ ] Anforderungsanalyse erstellen, (Nena)
 - [ ] Herausfinden wie graphisch darstellen
+- [ ] Daten aus Internet holen
+- [ ] Daten abspeichern und ausgeben
       
-
 ## Übersicht des Programms
 - [ ] Eingaben von Nutzer validieren und speichern: Benutzer nach Wertpapieren fragen, Eingaben validieren
 - [ ] Relevante Daten programmatisch beziehen und speichern: Datenquellen auswählen, Kursdaten beziehen,Daten speichern
