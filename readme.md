@@ -29,6 +29,9 @@
 ## 12.11.24
 - [ ] planen wie wir es programmieren werden
 - [ ] sich für den Programmier weg entscheiden
+- [ ] Anforderungen stehen
+- [ ] Testfälle stehen
+- [ ] Anfangen mit Umsetzung des Programms
 
       
 
