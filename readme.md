@@ -20,10 +20,10 @@
 
 - [ ] Auftrag klären/verstehen (alle)
 - [ ] alle begriffe verstehen (alle)
-- [ ] Informationen zusammenfassen (mina)
-- [ ] fehlende Informationen beschaffen (mina)
-- [ ] Ziel definieren (nena)
-- [ ] Aufgaben verteilen (maja)
+- [x] Informationen zusammenfassen (mina)
+- [x] fehlende Informationen beschaffen (mina)
+- [x] Ziel definieren (nena)
+- [x] Aufgaben verteilen (maja)
 
 
 ## 12.11.24
