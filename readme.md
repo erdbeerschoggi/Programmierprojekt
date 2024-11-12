@@ -28,10 +28,17 @@
 
 ## 12.11.24
 - [x] planen wie wir es programmieren werden
-- [ ] sich für den Programmier weg entscheiden
+- [x] sich für den Programmier weg entscheiden
 - [x] Anforderungen stehen
 - [x] Testfälle stehen
-- [ ] Anfangen mit Umsetzung des Programms
+- [x] Anfangen mit Umsetzung des Programms
+
+
+## 19.11.24
+- [ ] PAP ganz fertig stellen
+- [ ] Berechnung der Rendite finden
+- [ ] Eingabe Programmieren (Link usw.)
+- [ ] 
 
       
 
