@@ -38,7 +38,9 @@
 - [ ] PAP ganz fertig stellen
 - [ ] Berechnung der Rendite finden
 - [ ] Eingabe Programmieren (Link usw.)
-- [ ] 
+- [ ] Anteilen programmieren
+- [ ] Programm mehrheitlich zu ende bringen
+- [ ] Schauen das alles läuft (ohne diagramm, diagramm als letztes erstellen)
 
       
 
