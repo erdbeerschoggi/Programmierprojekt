@@ -27,7 +27,9 @@
 
 
 ## 12.11.24
-- [ ] aye
+- [ ] planen wie wir es programmieren werden
+- [ ] sich für den Programmier weg entscheiden
+
       
 
 
