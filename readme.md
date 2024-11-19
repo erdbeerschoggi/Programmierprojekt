@@ -35,10 +35,10 @@
 
 
 ## 19.11.24
-- [ ] PAP ganz fertig stellen
-- [ ] Berechnung der Rendite finden
+- [x] PAP ganz fertig stellen
+- [x] Berechnung der Rendite finden
 - [ ] Eingabe Programmieren (Link usw.)
-- [ ] Anteilen programmieren
+- [x] Anteilen programmieren
 - [ ] Programm mehrheitlich zu ende bringen
 - [ ] Schauen das alles läuft (ohne diagramm, diagramm als letztes erstellen)
 
