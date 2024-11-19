@@ -49,7 +49,8 @@
 - [ ] Dokumentation fertig stellen
 - [ ] Diagramm erstellen
 - [ ] Auswerten
-- [ ] Rendite ausrechbar machen    
+- [ ] Rendite ausrechbar machen
+- [ ] Nachdenke wie wir das Präsentieren wollen
 
 
 
