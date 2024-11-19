@@ -49,7 +49,7 @@
 - [ ] Dokumentation fertig stellen
 - [ ] Diagramm erstellen
 - [ ] Auswerten
-- [ ] Rednite ausrechbar machen    
+- [ ] Rendite ausrechbar machen    
 
 
 
