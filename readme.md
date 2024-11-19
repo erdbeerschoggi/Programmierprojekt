@@ -46,8 +46,10 @@
 
 ## 26.11.24
 
-
-      
+- [ ] Dokumentation fertig stellen
+- [ ] Diagramm erstellen
+- [ ] Auswerten
+- [ ] Rednite ausrechbar machen    
 
 
 
