@@ -42,6 +42,11 @@
 - [ ] Programm mehrheitlich zu ende bringen
 - [ ] Schauen das alles läuft (ohne diagramm, diagramm als letztes erstellen)
 
+
+
+## 26.11.24
+
+
       
 
 
