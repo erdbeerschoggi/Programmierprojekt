@@ -49,8 +49,16 @@
 - [ ] Dokumentation fertig stellen
 - [ ] Diagramm erstellen
 - [ ] Auswerten
-- [ ] Rendite ausrechbar machen
-- [ ] Nachdenke wie wir das Präsentieren wollen
+- [x] Rendite ausrechbar machen
+- [x] Nachdenke wie wir das Präsentieren wollen
+
+
+## 03.12.24
+
+- [ ] Testen
+- [ ] Doku fertig stellen
+- [ ] Präsentation durchmachen (verstehen wie es erklären)
+- [ ] Mit Lehrperson abmachen wann wir die Präsentation machen
 
 
 
